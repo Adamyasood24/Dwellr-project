@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Building Dwellr, a smart housing platform using React, CursorAI, and Figma for a seamless user experience. Leveraging 3D LiDAR scans to create standardized, high-accuracy room listings for students and employees. Implementing Database for secure authentication, real-time data handling, and scalable infrastructure.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
